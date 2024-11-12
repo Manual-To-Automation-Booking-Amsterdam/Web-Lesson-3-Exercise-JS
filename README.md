@@ -4,9 +4,9 @@
   <img src="https://logos-world.net/wp-content/uploads/2021/08/Booking-Logo.png" width="400" height="200" title="Booking_Logo">
 </p>
 
-# Booking.com - Web - Lesson 3 - Page Object Model - Javascript
+# Booking.com - Web - Lesson 3 - Exercise - Javascript
 
-This repository contains a sample of the Page Object Model built with the tests we have created up to now.
+This repository contains the solution to the exercise from Lesson 3.
 
 This is the Javascript version.
 
@@ -27,13 +27,13 @@ To get the project ready to run on your machine, follow the steps below:
 * Copy the following command into the terminal, (remember, you must have [Git](https://git-scm.com/downloads) installed)
 
 ```sh
-git clone https://github.com/Manual-To-Automation-Booking-Amsterdam/Web-Lesson-3-POM-JS.git
+git clone https://github.com/Manual-To-Automation-Booking-Amsterdam/Web-Lesson-3-Exercise-JS.git
 ```
 
 Move into the directory:
 
 ```sh
-cd Web-Lesson-3-POM-JS
+cd Web-Lesson-3-Exercise-JS
 ```
 
 Type the following commands:
